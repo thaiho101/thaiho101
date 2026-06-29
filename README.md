@@ -14,12 +14,6 @@ Software Engineering graduate passionate about building full-stack web applicati
 
 ☁️ Cloudflare Tunnel
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaiho101&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
 ## 💻 Tech Stack
@@ -71,6 +65,14 @@ Software Engineering graduate passionate about building full-stack web applicati
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Self--Hosted_Deployment-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaiho101&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
