@@ -1,4 +1,4 @@
-# Hi 👋 I'm Thai Ho
+# Hi 👋 I'm Nam Ho
 
 Software Engineering graduate passionate about building full-stack web applications and self-hosted infrastructure.
 
@@ -6,13 +6,11 @@ Software Engineering graduate passionate about building full-stack web applicati
 
 ## 🏗️ Currently Building
 
-🐳 Dockerizing JourneyLedger
+🐳 Dockerizing JourneyLedger for production deployment
 
-⚙️ CI/CD with GitHub Actions
+📦 Containerizing Spring Boot, React, and MariaDB
 
-🍓 Raspberry Pi Home Server
-
-☁️ Cloudflare Tunnel
+🔍 Learning Docker networking and volumes
 
 ---
 
