@@ -1,11 +1,23 @@
+# Hi 👋 I'm Thai Ho
+
+Software Engineering graduate passionate about building full-stack web applications and self-hosted infrastructure.
+
+📍 Dallas–Fort Worth, Texas
+
+## 🏗️ Currently Building
+
+🐳 Dockerizing JourneyLedger
+
+⚙️ CI/CD with GitHub Actions
+
+🍓 Raspberry Pi Home Server
+
+☁️ Cloudflare Tunnel
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thaiho101&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaiho101&layout=compact&theme=tokyonight" />
 </p>
 
 ---
