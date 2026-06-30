@@ -1,16 +1,28 @@
 # Hi 👋 I'm Nam Ho
 
-Software Engineering graduate passionate about building full-stack web applications and self-hosted infrastructure.
+Software Engineering graduate passionate about building production-ready full-stack applications with Java, Spring Boot, React, Docker, and self-hosted infrastructure.
 
 📍 Dallas–Fort Worth, Texas
 
-## 🏗️ Currently Building
+💼 Open to Full-Time Software Engineering Opportunities
 
-🐳 Dockerizing JourneyLedger for production deployment
+---
 
-📦 Containerizing Spring Boot, React, and MariaDB
+## 🚀 Recent Progress
 
-🔍 Learning Docker networking and volumes
+✔ Dockerized the JourneyLedger full-stack application
+
+✔ Implemented Docker Compose and multi-stage builds
+
+✔ Configured Nginx reverse proxy
+
+✔ Added environment-specific configuration
+
+---
+
+## 🏗️ Current Focus
+
+Migrating JourneyLedger to a Docker-based production environment
 
 ---
 
@@ -55,11 +67,12 @@ Software Engineering graduate passionate about building full-stack web applicati
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### Infrastructure
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Self--Hosted_Deployment-111827?style=for-the-badge" />
